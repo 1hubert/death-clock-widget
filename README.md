@@ -2,7 +2,7 @@
  Folder with an icon of a skull and filename updating you everyday on how much days you have left.
 
 ## How it looks:
- ![](ss.png)
+ ![](./images/ss.png)
 
 ## Usage:
 - put the skull icon (the 'death clock') somewhere to your preference (I recommend to just put it on the Desktop)
