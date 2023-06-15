@@ -1,5 +1,17 @@
 # death-clock-widget
- Folder with an icon of a skull and filename updating you everyday on how much days you have left.
+> The truth is that we are only here for a short while.
+> 
+> Yet the calender on the wall displays days from here until eternity. The watch winds up instead of down.
+> 
+> This is complete deception, is it not?
+> 
+> The only worthwhile watch in the world is not the one which counts Up, but the one which counts Down. **Not the watch which tells you what time It Is. But the watch which tells you how much time you Have Left.**
+> 
+> Unless we Viscerally come face to face with our own demise...
+> 
+> We will never know death.
+> 
+> ~ Kapil Gupta
 
 ## How it looks:
  ![](./images/ss.png)
